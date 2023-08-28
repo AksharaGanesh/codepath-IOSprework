@@ -43,11 +43,10 @@ Can draw with a pencil
 
 Think of an app idea that you would like to build. It can be a new idea or an improvement on an existing app. Write a short paragraph describing the app and the features you would like to implement. You are not commiting to this idea, but it helps to start brain storming early on and get feedback from your peers and instructors.
 
-I would build
+I would build a new app to help roommates navigate living in a shared space. There would be a shared chores list. Additionally, there could be an editable grocery list that all roommates could check off if they bought items or change if meal plans changed. There could also be a calendar icon where they could mark special occasions like birthdays.
 
 ## Notes
 
-Describe any challenges encountered while building the app.
 
 ## License
 
